@@ -205,19 +205,21 @@ A few projects and technical explorations from my development journey.
 
 <!-- ==================== GITHUB STATS ==================== -->
 
+
 ## 📊 GitHub Space Station
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=C-Kendhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Kendhe&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=C-Kendhe&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=C-Kendhe&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 
 ---
