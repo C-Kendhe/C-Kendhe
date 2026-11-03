@@ -76,7 +76,7 @@ me = Developer()
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
 </p>
 
 ### AI / Data Science
