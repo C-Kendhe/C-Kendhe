@@ -222,12 +222,25 @@ A few projects and technical explorations from my development journey.
 ---
 
 ## 🌠 Contribution Galaxy
+<h2 align="center">🌌 Contribution Galaxy</h2>
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=C-Kendhe&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/C-Kendhe/C-Kendhe/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/C-Kendhe/C-Kendhe/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/C-Kendhe/C-Kendhe/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ---
 
