@@ -17,7 +17,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Exploring+Artificial+Intelligence+%26+ML;Building+Projects+%26+Learning+Every+Day;Turning+Ideas+Into+Working+Solutions" />
 
 <br/>
-
+</div>
 ---
 
 <!-- ==================== ABOUT ==================== -->
