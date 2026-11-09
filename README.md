@@ -1,4 +1,4 @@
-
+<img width="1826" height="983" alt="image" src="https://github.com/user-attachments/assets/a6db0c3d-0d78-48a6-ae77-dad15abdb4e2" />
 <!--
   GitHub Profile README
   Username: C-Kendhe
@@ -212,8 +212,7 @@ A few projects and technical explorations from my development journey.
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=C-Kendhe&layout=compact&theme=tokyonight&hide_border=true" />
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight)
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=C-Kendhe&theme=tokyonight&hide_border=true" />
