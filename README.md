@@ -18,7 +18,7 @@
 
 <br/>
 </div>
----
+
 
 <!-- ==================== ABOUT ==================== -->
 
@@ -72,7 +72,7 @@ me = Developer()
 ### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,typescript,&theme=dark" />
 </p>
 
 ### AI / Data Science
@@ -200,28 +200,26 @@ A few projects and technical explorations from my development journey.
 ---
 
 <!-- ==================== GITHUB STATS ==================== -->
+
 ## 📊 GitHub Space Station
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img width="100%" src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&include_all_commits=true&show=all_time_contribs&card_width=340" />
-
-</td>
-<td width="50%" align="center">
-
-<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&card_width=340" />
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=C-Kendhe&theme=tokyonight&hide_border=true" />
+<a href="https://github-stats-extended.vercel.app/api?username=C-Kendhe&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight">
+  <img height="200" align="center"
+    src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight">
+  <img height="200" align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=C-Kendhe&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 <!-- ==================== CONTRIBUTIONS ==================== -->
 
