@@ -1,11 +1,12 @@
 
+ 
 <!--
   GitHub Profile README
   Username: C-Kendhe
   Theme: Space / Futuristic
 -->
 
-<!-- ==================== HERO BANNER ==================== -->
+<!-- ==================== HERO ==================== -->
 
 <div align="center">
 
@@ -17,15 +18,15 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-C--Kendhe-181717?style=for-the-badge&logo=github)](https://github.com/C-Kendhe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chaitanyakendhe06/)
-[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/C_Kendhe)
+<a href="https://github.com/C-Kendhe"><img src="https://img.shields.io/badge/GitHub-C--Kendhe-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/chaitanyakendhe06/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://x.com/C_Kendhe"><img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" /></a>
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ==================== ABOUT ==================== -->
 
 ## 🌌 About Me
 
@@ -56,11 +57,12 @@ class Developer:
     def ambition(self):
         return "Build technology that solves meaningful problems."
 
+
 me = Developer()
 ```
 
 - 🎓 Computer Science undergraduate student.
-- 🤖 Exploring AI, Machine Learning and intelligent systems.
+- 🤖 Exploring Artificial Intelligence, Machine Learning and intelligent systems.
 - 💻 Interested in software development and problem solving.
 - 🚀 Participating in hackathons and building practical projects.
 - 🌱 Constantly learning, experimenting and improving.
@@ -76,28 +78,28 @@ me = Developer()
 ### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
 </p>
 
 ### AI / Data Science
 
 <p align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM_APIs-6B46C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_APIs-6B46C1?style=for-the-badge" />
 </p>
 
 ### Tools & Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,mysql,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,mysql,docker&theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -115,9 +117,9 @@ A few projects and technical explorations from my development journey.
 - Analyzes customer reviews using LLMs.
 - Processes uploaded CSV datasets.
 - Converts unstructured feedback into actionable insights.
-- Integrated AMD Token Factory APIs.
+- Integrates AMD Token Factory APIs.
 
-`Python` `AI/LLM` `CSV` `API Integration`
+`AI / LLM` `CSV` `API Integration`
 
 ### 02. SmartStock AI
 
@@ -142,7 +144,7 @@ A few projects and technical explorations from my development journey.
 
 ### 04. Data Management & Verification
 
-**NGO internship project – YOJAK, Pune**
+**NGO Internship Project — YOJAK, Pune**
 
 - Verified beneficiary survey data.
 - Maintained digital records.
@@ -153,7 +155,7 @@ A few projects and technical explorations from my development journey.
 
 ---
 
-<!-- ==================== CURRENT LEARNING ==================== -->
+<!-- ==================== LEARNING ==================== -->
 
 ## 🛰️ Currently Exploring
 
@@ -205,44 +207,42 @@ A few projects and technical explorations from my development journey.
 
 <!-- ==================== GITHUB STATS ==================== -->
 
-
 ## 📊 GitHub Space Station
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<table>
+<tr>
+<td width="50%" align="center">
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,prs" />
+</td>
+<td width="50%" align="center">
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight)
-<br/><br/>
+<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=C-Kendhe&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=C-Kendhe&theme=tokyonight&hide_border=true" />
 
 </div>
 
-
-
 ---
 
-## 🌠 Contribution Galaxy
-<h2 align="center">🌌 Contribution Galaxy</h2>
+<!-- ==================== CONTRIBUTIONS ==================== -->
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/C-Kendhe/C-Kendhe/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/C-Kendhe/C-Kendhe/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/C-Kendhe/C-Kendhe/output/github-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
+## 🌠 Contribution Galaxy
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C-Kendhe/C-Kendhe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C-Kendhe/C-Kendhe/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/C-Kendhe/C-Kendhe/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
@@ -255,15 +255,15 @@ A few projects and technical explorations from my development journey.
 Interested in technology, AI/ML, hackathons, open-source projects and collaboration.
 
 <a href="https://github.com/C-Kendhe">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/chaitanyakendhe06/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://x.com/C_Kendhe">
-<img src="https://img.shields.io/badge/X-Follow%20My%20Journey-000000?style=for-the-badge&logo=x" />
+  <img src="https://img.shields.io/badge/X-Follow%20My%20Journey-000000?style=for-the-badge&logo=x" />
 </a>
 
 <br/><br/>
