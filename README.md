@@ -1,11 +1,4 @@
 
- 
-<!--
-  GitHub Profile README
-  Username: C-Kendhe
-  Theme: Space / Futuristic
--->
-
 <!-- ==================== HERO ==================== -->
 
 <div align="center">
@@ -207,7 +200,7 @@ A few projects and technical explorations from my development journey.
 
 <a href="https://github-stats-extended.vercel.app/api?username=C-Kendhe&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight">
   <img height="200" align="center"
-    src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+    src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=stars" />
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight">
   <img height="200" align="center"
@@ -219,7 +212,6 @@ A few projects and technical explorations from my development journey.
 <img width="85%" src="https://streak-stats.demolab.com?user=C-Kendhe&theme=tokyonight&hide_border=true" />
 
 </div>
-
 
 <!-- ==================== CONTRIBUTIONS ==================== -->
 
