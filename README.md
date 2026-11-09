@@ -209,26 +209,33 @@ A few projects and technical explorations from my development journey.
 
 ## 📊 GitHub Space Station
 
+## 📊 GitHub Space Station
+
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&include_all_commits=true&show=all_time_contribs" />
-</td>
-<td width="50%" align="center">
-<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
+<a href="https://github-stats-extended.vercel.app/api?username=C-Kendhe">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&include_all_commits=true&show=all_time_contribs&card_width=495"
+  />
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=C-Kendhe">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&card_width=495"
+  />
+</a>
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=C-Kendhe&theme=tokyonight&hide_border=true" />
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=C-Kendhe&theme=tokyonight&hide_border=true"
+/>
 
 </div>
-
----
 
 <!-- ==================== CONTRIBUTIONS ==================== -->
 
