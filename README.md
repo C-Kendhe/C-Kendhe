@@ -1,4 +1,4 @@
-<img width="1826" height="983" alt="image" src="https://github.com/user-attachments/assets/a6db0c3d-0d78-48a6-ae77-dad15abdb4e2" />
+
 <!--
   GitHub Profile README
   Username: C-Kendhe
