@@ -18,12 +18,6 @@
 
 <br/>
 
-<a href="https://github.com/C-Kendhe"><img src="https://img.shields.io/badge/GitHub-C--Kendhe-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/chaitanyakendhe06/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://x.com/C_Kendhe"><img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" /></a>
-
-</div>
-
 ---
 
 <!-- ==================== ABOUT ==================== -->
@@ -206,34 +200,26 @@ A few projects and technical explorations from my development journey.
 ---
 
 <!-- ==================== GITHUB STATS ==================== -->
-
 ## 📊 GitHub Space Station
 
-## 📊 GitHub Space Station
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&include_all_commits=true&show=all_time_contribs&card_width=340" />
+
+</td>
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&card_width=340" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://github-stats-extended.vercel.app/api?username=C-Kendhe">
-  <img
-    height="200"
-    align="center"
-    src="https://github-stats-extended.vercel.app/api?username=C-Kendhe&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&include_all_commits=true&show=all_time_contribs&card_width=495"
-  />
-</a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=C-Kendhe">
-  <img
-    height="200"
-    align="center"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=C-Kendhe&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&card_width=495"
-  />
-</a>
-
-<br/><br/>
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=C-Kendhe&theme=tokyonight&hide_border=true"
-/>
+<img width="80%" src="https://streak-stats.demolab.com?user=C-Kendhe&theme=tokyonight&hide_border=true" />
 
 </div>
 
